@@ -1,6 +1,8 @@
 {
   "name": "proyecto-vercel-informe",
-  "version": "1.0.0",
   "private": true,
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.59.0"
+  }
 }
